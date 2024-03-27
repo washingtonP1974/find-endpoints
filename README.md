@@ -13,8 +13,11 @@ It can recursively scan a website or a list of websites, download JavaScript fil
 
 ## Prerequisites
 Before you start using PyScript, make sure you have the following installed:
+
 a) Python 3.10
+
 b) `requests` library
+
 c) `BeautifulSoup4` library
 
 You can install the necessary Python3 libraries using pip:
@@ -22,8 +25,11 @@ You can install the necessary Python3 libraries using pip:
 pip3 install requests beautifulsoup4
 
 ## Installation
+
 1. Clone the repository or download the source code.
+  
 2. Ensure you have the prerequisites installed.
+   
 3. Navigate to the PyScript directory.
 
 ## Usage
