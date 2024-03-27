@@ -4,8 +4,11 @@ It can recursively scan a website or a list of websites, download JavaScript fil
 
 ## Features
 ** Website Crawling:**      Recursively visits all accessible pages within a domain.
+
 ** JavaScript Extraction:** Identifies and lists all JavaScript files used in the web application.
+
 ** Endpoint Detection:**    Extracts potential API endpoints from the JavaScript files.
+
 ** File Downloading:**      Optionally downloads all discovered JavaScript files for offline analysis.
 
 ## Prerequisites
