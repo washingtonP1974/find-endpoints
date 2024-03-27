@@ -55,3 +55,7 @@ python3 find-endpoints.py --download --find-endpoints http://example.com
 - Scan multiple websites from a file:
 
 python3 find-endpoints.py --find-endpoints urls.tx
+<div align="center">
+<br/>
+   <img src="https://github.com/washingtonP1974/find-endpoints/blob/main/a1.png" alt="visitor badge"/>
+</div>
